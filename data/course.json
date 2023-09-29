@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Microbiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ]
+  ],
+  "legacy_uid": "8b9e0712-6b5b-42fb-576f-a6d2bda83050",
+  "instructors": {
+    "content": [
+      "63a61311-d623-0028-7db5-3cf738617ca5",
+      "c83a0144-a4ce-0ebb-e0ef-9572b87df77d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "143e8064-abe7-d168-bd79-17b66bc5a4a1",
+    "website": "20-106j-systems-microbiology-fall-2006"
+  },
+  "course_title": "Systems Microbiology",
+  "course_description": "This course covers introductory microbiology from a systems perspective, considering microbial diversity, population dynamics, and genomics. Emphasis is placed on the delicate balance between microbes and humans, and the changes that result in the emergence of infectious diseases and antimicrobial resistance. The case study approach covers such topics as vaccines, toxins, biodefense, and infections including Legionnaire\u2019s disease, tuberculosis, Helicobacter pylori, and plague.\n",
+  "department_numbers": [
+    "20",
+    "1"
+  ],
+  "extra_course_numbers": "1.084J",
+  "primary_course_number": "20.106J",
+  "course_image_thumbnail": {
+    "content": "aad77808-83bb-6ccd-78fb-432599eaa443",
+    "website": "20-106j-systems-microbiology-fall-2006"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "f85f218c-ca27-41e6-a4bc-802a196ca1d4",
+  "site_short_id": "20.106j-fall-2006",
+  "title": "Course Metadata"
+}
